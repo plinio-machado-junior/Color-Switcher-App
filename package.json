@@ -1,7 +1,7 @@
 {
   "name": "01challenge",
   "version": "0.1.0",
-  "homepage": "https://plinio-machado-junior.github.io/color_switcher",
+  "homepage": "https://plinio-machado-junior.github.io/Color-Switcher-App",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
