@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color_switcher/static/css/main.845494d8.css",
+    "main.js": "/color_switcher/static/js/main.537af129.js",
+    "index.html": "/color_switcher/index.html",
+    "main.845494d8.css.map": "/color_switcher/static/css/main.845494d8.css.map",
+    "main.537af129.js.map": "/color_switcher/static/js/main.537af129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845494d8.css",
+    "static/js/main.537af129.js"
+  ]
+}
